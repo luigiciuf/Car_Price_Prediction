@@ -29,7 +29,7 @@ Questo progetto utilizza **Python** e librerie di **Machine Learning** per anali
 3. **Installa le dipendenze**
    ```bash
    pip install -r requirements.txt
-4.**Esegui il modello**
+4. **Esegui il modello**
    ```bash
    python main.py
 
