@@ -31,5 +31,5 @@ Questo progetto utilizza **Python** e librerie di **Machine Learning** per anali
    pip install -r requirements.txt
 4.**Esegui il modello**
    ```bash
-python main.py
+   python main.py
 
